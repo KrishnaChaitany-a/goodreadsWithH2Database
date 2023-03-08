@@ -1,0 +1,3 @@
+2023-03-08 07:38:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "BOKK" not found; SQL statement:
+SELECT * FROM bokk WHERE id = ? [42102-214]
